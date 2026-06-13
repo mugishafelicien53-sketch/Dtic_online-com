@@ -19,7 +19,7 @@ footer{background:#333;color:white;text-align:center;padding:15px;}
 <body>
 
 <header>
-<h1>💻 DTIC Online</h1>
+<h1>DTIC Online</h1>
 <p>Learn • Innovate • Connect</p>
 </header>
 
