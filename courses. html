@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>DTIC Courses</title>
+
+<style>
+body{
+    margin:0;
+    font-family:Arial,sans-serif;
+    background:#f4f4f4;
+}
+
+header{
+    background:#0066cc;
+    color:white;
+    text-align:center;
+    padding:20px;
+}
+
+nav{
+    background:#333;
+    padding:10px;
+    text-align:center;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:10px;
+}
+
+.container{
+    width:90%;
+    margin:auto;
+    padding:20px;
+}
+
+.course{
+    background:white;
+    margin:15px 0;
+    padding:20px;
+    border-radius:10px;
+    box-shadow:0 2px 5px rgba(0,0,0,0.2);
+}
+
+.course h2{
+    color:#0066cc;
+}
+
+.btn{
+    background:#0066cc;
+    color:white;
+    padding:10px 15px;
+    text-decoration:none;
+    border-radius:5px;
+    display:inline-block;
+}
+
+footer{
+    background:#333;
+    color:white;
+    text-align:center;
+    padding:15px;
+    margin-top:20px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>📚 DTIC Online Courses</h1>
+<p>Build Skills for the Digital Future</p>
+</header>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="courses.html">Courses</a>
+<a href="projects.html">Projects</a>
+<a href="contact.html">Contact</a>
+</nav>
+
+<div class="container">
+
+<div class="course">
+<h2>🌐 Web Development</h2>
+<p>Learn HTML, CSS, JavaScript and website creation.</p>
+<a href="#" class="btn">Start Course</a>
+</div>
+
+<div class="course">
+<h2>🐍 Python Programming</h2>
+<p>Learn programming, automation and software development.</p>
+<a href="#" class="btn">Start Course</a>
+</div>
+
+<div class="course">
+<h2>🖧 Networking</h2>
+<p>Learn computer networks, internet and communication systems.</p>
+<a href="#" class="btn">Start Course</a>
+</div>
+
+<div class="course">
+<h2>🔒 Cyber Security</h2>
+<p>Learn how to secure systems and protect information.</p>
+<a href="#" class="btn">Start Course</a>
+</div>
+
+<div class="course">
+<h2>🎨 Graphic Design</h2>
+<p>Create posters, logos, banners and social media designs.</p>
+<a href="#" class="btn">Start Course</a>
+</div>
+
+<div class="course">
+<h2>🤖 Artificial Intelligence</h2>
+<p>Introduction to AI, Machine Learning and modern technologies.</p>
+<a href="#" class="btn">Start Course</a>
+</div>
+
+</div>
+
+<footer>
+<p>© 2026 DTIC Online | Learn • Innovate • Connect</p>
+</footer>
+
+</body>
+</html>
